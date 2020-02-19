@@ -6,4 +6,4 @@ def divider(left: int, right: int):
 
 
 def bsobj_creator():
-    return bs
+    return bs('hello', 'html.parser')
